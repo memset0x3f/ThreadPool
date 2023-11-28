@@ -2,7 +2,7 @@
 
 C++ thread pool
 
-In order to practice Modern C++ and multi-thread programming.R
+In order to practice Modern C++ and multi-thread programming.
 
 ## References
 
